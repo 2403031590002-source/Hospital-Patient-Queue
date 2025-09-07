@@ -1,0 +1,5 @@
+all:
+    g++ HOSP\ CODE.cpp -o hospital-patient-queue.exe
+
+clean:
+    del hospital-
